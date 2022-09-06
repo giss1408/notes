@@ -18,3 +18,12 @@ sudo systemctl enable docker && systemctl start docker
 sudo groupadd docker
 sudo usermod -aG docker $USER
 
+
+### Github
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/giss1408/notes.git
+git push -u origin main
+
+
