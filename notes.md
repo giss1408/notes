@@ -33,6 +33,8 @@ git push -u origin main
 * flutter pub get : install dependencies
 * fluutter upgrade : upgrade dart SDK version
 
+* flutter run
+
 ### Nodejs
 * sudo npm install to install dependencies inside project
 
@@ -41,5 +43,8 @@ git push -u origin main
 
 ### heroku
 * no email and passwd, use API key
+
+### Free images for commercial use
+* https://www.shutterstock.com/
 
 
