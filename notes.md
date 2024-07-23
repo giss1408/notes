@@ -34,6 +34,7 @@ git push -u origin main
 * fluutter upgrade : upgrade dart SDK version
 
 * flutter run
+* flutter pub cache clean
 
 ### Nodejs
 * sudo npm install to install dependencies inside project
