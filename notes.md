@@ -21,12 +21,16 @@ sudo usermod -aG docker $USER
 ### Ubuntu not reachable from local network
 * disable firewall: sudo ufw disable
 
+### Github authentication
+git-credential-manager login github
+
 ### Github
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/giss1408/notes.git
 git push -u origin main
+
 
 ### Flutter
 * flutter doctor
