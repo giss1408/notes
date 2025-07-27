@@ -52,4 +52,6 @@ git push -u origin main
 ### Free images for commercial use
 * https://www.shutterstock.com/
 
-
+#### Name of Symboles
+	- ~: TILDE
+	- -: HYPHEN / dash
