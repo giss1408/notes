@@ -56,3 +56,8 @@ git-credential-manager login github
 ## Name of Symboles
 	- ~: TILDE
 	- -: HYPHEN / dash
+
+### python dev
+* Create virtual env: python -m venv /path/to/new/virtual/environment
+* Activate source env/bin/activate
+
