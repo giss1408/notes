@@ -76,7 +76,7 @@
 ## heroku
 * no email and passwd, use API key
 
---
+---
 ## Free images for commercial use
     * https://www.shutterstock.com/
 ### AI Tool opensource
@@ -130,3 +130,17 @@
 
 ### Verify cert again root
     - openssl verify -verbose -show_chain -crl_check_all -CAfile NonProdCAVert.pem AliceCert.pem
+
+---
+## HW
+    - SOM:System On Module
+    - OSI: Open System Interconnection
+    - RS485: 2-3 Wires ( D+, D-, 0) Multipoint connection
+    - RS232: 3 Wires ( Rx, Tx. Gnd ) Point-2-Point
+
+---
+## VSCode and shortcuts
+    - Navigate back to previous cursor location: 
+        ctr + alt + -
+    - Navigate to settings: ctr + switch + P
+
