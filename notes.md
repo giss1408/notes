@@ -61,3 +61,16 @@ git-credential-manager login github
 * Create virtual env: python -m venv /path/to/new/virtual/environment
 * Activate source env/bin/activate
 
+## Projet
+	- creating a client code generation tool for a Flutter app 
+
+## Java
+	- sudo ln -sfn /usr/local/opt/openjdk/bin/java /Library/Java/JavaVirtualMachines/openjdk24.jdk
+	- java -version
+
+### Compile
+	- Compile the program: javac HelloWorld.java
+	- Run the program: java HelloWorld
+
+### locate java
+	- To find the Java bin path, use the command readlink -f $(which java)
